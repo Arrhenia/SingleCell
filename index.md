@@ -1,3 +1,9 @@
+---
+title: 'Make a website"
+permalink: /
+layout: default'
+---
+
 # Standard Single Cell Workflow
 
 ## Setup
